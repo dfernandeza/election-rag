@@ -7,7 +7,7 @@ This project uses:
 - [**Qdrant Cloud**](https://qdrant.tech/cloud/) as the vector database
 - **Local embeddings** (HuggingFace / Sentence Transformers)
 - **Local LLM** via Ollama (no paid APIs)
-- **FastAPI** as a production-ready backend
+- **FastAPI** backend
 - **Zero paid APIs**
 
 Designed as a **realistic, minimal, and well-structured RAG system**, suitable for educational use, civic transparency, and as a reference architecture.
